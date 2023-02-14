@@ -24,3 +24,12 @@ header span{
 .te {
     padding: 20%;
 }
+.ola{
+    width: 100%;
+    height: 20px;
+    background-color: papayawhip;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 1px 1px white;
+}
